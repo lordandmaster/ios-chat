@@ -11,8 +11,8 @@ import PubNub
 import PubNubChat
 import PubNubChatComponents
 
-let PUBNUB_PUBLISH_KEY = "myPublishKey"
-let PUBNUB_SUBSCRIBE_KEY = "myPublishKey"
+let PUBNUB_PUBLISH_KEY = "pub-c-3bff6ab4-aa95-4092-a26b-c5a2f4cf13dd"
+let PUBNUB_SUBSCRIBE_KEY = "sub-c-cbf08c2a-c41b-11ec-b74b-82b465a2b170"
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
